@@ -1,6 +1,6 @@
 # Bybit Dash
 
-Simple live dashboard for bybit using pybybit and dash-plotly library.
+Simple live dashboard for bybit using pybybit and plotly-dash library.
 
 ### Installation
 
