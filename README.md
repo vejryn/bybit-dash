@@ -1,6 +1,6 @@
 # Bybit Dash
 
-Simple live dashboard for bybit using pybybit and plotly-dash library. You could modify it to use with another crypto exchange, or another metrics from bybit.
+Simple live dashboard for bybit using pybybit and plotly-dash library. This is modifiable use with another crypto exchange, or another metrics from bybit.
 
 ### Installation
 
